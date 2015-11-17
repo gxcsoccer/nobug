@@ -1,0 +1,23 @@
+{
+  "name": "nobug",
+  "version": "0.0.0",
+  "description": "no bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gxcsoccer/nobug.git"
+  },
+  "keywords": [
+    "no",
+    "bug"
+  ],
+  "author": "gxcsoccer@126.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gxcsoccer/nobug/issues"
+  },
+  "homepage": "https://github.com/gxcsoccer/nobug#readme"
+}
